@@ -1,0 +1,14 @@
+.text {
+	color: #2563eb;
+	padding-top: 200px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.todoListWrapper {
+	width: 800px;
+	height: 500px;
+	overflow-y: auto;
+	margin: 0 auto;
+	margin-top: 20px;
+}
